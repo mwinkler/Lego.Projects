@@ -16,3 +16,7 @@ Programming is done via [Mindstrom App](https://www.microsoft.com/en-us/p/lego-m
 [Caterpillar.io](Caterpillar/Caterpillar.io)  
 [Caterpillar.lms](Caterpillar/Caterpillar.lms)  
 
+
+## Compact Chassis
+<img src="CompactChassis/compact_chassis.png" style="max-width: 600px"><br />
+[compact_chassis.io](CompactChassis/compact_chassis.io)  
